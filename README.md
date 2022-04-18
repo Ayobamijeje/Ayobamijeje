@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ayobamijeje
 - 👀 I’m interested in Data science and Machine learning 
-- 🌱 I’m have over 2 years of python, SQL, PowerBI, Excel
-- 💞️ I’m looking to collaborate on various projects 
+- 🌱 I have over 2 years experience working with python, SQL, PowerBI, Excel
 - 📫 you can reach me on jejeayobami99@gmail.com 
 
 <!---
